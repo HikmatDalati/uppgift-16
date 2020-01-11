@@ -1,0 +1,15 @@
+.continer{
+	margin-top: 10px;
+	background-color: lightblue;
+	width: 80%;
+	margin: auto;
+}
+.rubrik{
+	text-align: center;
+	margin-top: 20px;
+}
+p{
+	margin-left: 20px;
+	font-size: 22px;
+	margin-top: 20px;
+}
